@@ -1,0 +1,118 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+}
+.header{
+    width: 100%;
+    height:80px;
+    gap: 30px;
+    background-color: red;
+    display: flex;
+}
+.logo{
+    width: 200px;
+    height: 60px;
+    border-radius: 8px;
+    display: flex;
+    display: inline-block;
+    margin-left: 9.49%;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.menu{
+    width: 820px;
+    height: 34px;
+    border-radius: 8px;
+    display: flex;
+    display: inline-block;
+    text-align: center;
+    background-color: red;
+}
+.button{
+    width: 200px;
+    height: 60px;
+    border-radius: 8px;
+    display: flex;
+    display: inline-block;
+    text-align: center;
+    background-color: red;
+}
+.section_1{
+    background-color: yellow;
+    width: 100%;
+    height: 680px;
+}
+.content{
+    background-color: #E2E2E2;
+    display: flex;
+    display: inline-block;
+    Width: 585px;
+    Height: 267px;
+    border-Radius: 8px;
+}
+.image{
+    background-color: #E2E2E2;
+    display: flex;
+    display: inline-block;
+    width: 585px;
+    height: 520px;
+    border-Radius: 8px;
+}
+.section_2{
+    background: brown;
+}
+.title{
+    width: 600px;
+    height: 80px;
+    background-color: #E2E2E2;
+    display: flex;
+}
+.item_2{
+    background-color: #E2E2E2;
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 380px;
+    height: 420px;
+    border-radius: 8px;
+}
+.section_3{
+    width: 100%;
+    height: 580px;
+    background-color: green;
+}
+.item_3{
+    background-color: #E2E2E2;
+    width: 216px;
+    height: 300px;
+    border-radius: 8px;
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.section_4{
+    background-color: pink;
+}
+.item_4{
+    background-color: #E2E2E2;
+    display: flex;
+    display: inline-block;
+    width: 277.5px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: #D9D9D9;
+    width: 100%;
+    height: 72px;
+}
